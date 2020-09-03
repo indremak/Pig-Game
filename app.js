@@ -81,8 +81,8 @@ const changeActivePlayerClass = () => {
 
 //pick the right dice images
 const changeImage = (dice1, dice2) => {
-  ELEMENTS.dice1.src = `/dice_img/dice-${dice1}.png`;
-  ELEMENTS.dice2.src = `/dice_img/dice-${dice2}.png`;
+  ELEMENTS.dice1.src = `dice_img/dice-${dice1}.png`;
+  ELEMENTS.dice2.src = `dice_img/dice-${dice2}.png`;
 };
 
 //game initialiazation function
