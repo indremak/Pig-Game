@@ -1,5 +1,7 @@
 # Pig Game
 
+[Click here to try the game](https://indremak.github.io/Pig-Game/)
+
 Pig game implemented with Javascript (learned about manipulating DOM, event listeners, modern JS features), HTML and CSS while doing [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ## Game Rules
